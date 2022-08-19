@@ -16,7 +16,7 @@ List of hardwares used :-<br />
 
 
 
-![My Image](images/sscom.jpg)
+![My Image](images/sscom.png)
 
 
 
