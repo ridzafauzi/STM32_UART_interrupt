@@ -1,5 +1,5 @@
 # STM32_UART_interrupt
-This code will transmit data via serial (UART) and receive
+This code will transmit data (using SSCOM serial command software) to USART1 and STM32 blue pill will reply with the same data to USART1.
 
 This project was developed with :-<br /> 
 1. STM32CubeMX 6.0.1<br /> 
