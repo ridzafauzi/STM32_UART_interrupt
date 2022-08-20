@@ -13,7 +13,7 @@ List of hardwares used :-<br />
 5. CH340 USB to Serial
 
 
-![My Image](images/testbed.png)
+![My Image](images/testbed.jpg)
 
 
 ![My Image](images/sscom.png)
